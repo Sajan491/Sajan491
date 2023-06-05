@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sajan</h1>
-<h3 align="center">I'm a Full Stack Developer from Nepal.</h3>
+<h3 align="center">I'm a Data Intern at LIS Nepal.</h3>
 
 
 ## 🙋‍♂️ About Me
